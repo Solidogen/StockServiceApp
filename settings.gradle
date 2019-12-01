@@ -1,3 +1,4 @@
 rootProject.name = 'stock-service-multiplatform'
 
 include ":stock-service-api"
+include ":stock-client"
